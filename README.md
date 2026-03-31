@@ -16,9 +16,10 @@ Our design uses a **Multi-Agent Orchestration** approach to ensure accuracy:
 
 ---
 
-## 📁 Technical Documentation
-* [📄 **View Full Architecture Diagram (PDF)**](./Architecture%20Diagram.pdf)
-* [📝 **View Research Abstract**](./Abstract.txt)
+### 📚 Project Documentation
+
+* [📄 **Technical Architecture Diagram (PDF)**](./Architecture%20Diagram.pdf)
+* [📝 **Research Paper: Co-Investigator AI (PDF)**](./Abstract.pdf)
 
 ---
 
